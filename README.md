@@ -47,6 +47,7 @@ pip install PyQt5==5.15.4
 pip install markupsafe==2.0.1
 ```
 ## Contributors
+```
 Roberto Orozco
 Joseph Baca
 Victor Herrera
